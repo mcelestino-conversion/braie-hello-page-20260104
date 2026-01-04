@@ -1,0 +1,13 @@
+{
+  "canon_version": "1.0",
+  "description": "create a simple next.js + typescript app styled with tailwind css that shows a 'hello' message on the home page.",
+  "project": {
+    "framework": "nextjs",
+    "language": "typescript",
+    "name": "braie hello page 20260104",
+    "type": "web_app"
+  },
+  "styling": {
+    "framework": "tailwind"
+  }
+}
